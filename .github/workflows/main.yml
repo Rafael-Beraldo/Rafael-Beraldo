@@ -1,5 +1,7 @@
 name: generate animation
 
+# ![Snake animation](https://github.com/Rafael-Beraldo/Rafael-Beraldo/blob/output/github-contribution-grid-snake.svg)
+
 on:
   # run automatically every 24 hours
   schedule:
