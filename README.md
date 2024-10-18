@@ -1,8 +1,9 @@
 <h1 align="center">Rafael Teixeira Beraldo</h1>
 <h3 align="center">Developer</h3>
 
+![Gráfico 3D de Contribuições](profile-3d-contrib/profile-night-rainbow.svg)
+
 <p align="center">
-  ![Gráfico 3D de Contribuições](profile-3d-contrib/profile-night-rainbow.svg)
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 </p>
 <h3 align="left">Languages and Tools:</h3>
