@@ -10,6 +10,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rafael-Beraldo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,nodejs,express,nest,figma,github,linux,postman,mongodb,discord,linkedin,instagram" />
+</a>
+  
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 </p>
 <h3 align="left">Languages and Tools:</h3>
