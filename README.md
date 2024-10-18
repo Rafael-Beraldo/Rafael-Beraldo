@@ -3,8 +3,6 @@
 
 ![Gráfico 3D de Contribuições](profile-3d-contrib/profile-night-rainbow.svg)
 
-##
-
 ![Snake animation](https://github.com/Rafael-Beraldo/Rafael-Beraldo/blob/output/github-contribution-grid-snake-dark.svg)
 
 ##
