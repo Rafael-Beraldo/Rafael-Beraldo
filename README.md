@@ -3,6 +3,12 @@
 
 ![Gráfico 3D de Contribuições](profile-3d-contrib/profile-night-rainbow.svg)
 
+##
+
+![Snake animation](https://github.com/Rafael-Beraldo/Rafael-Beraldo/blob/output/github-contribution-grid-snake-dark.svg)
+
+##
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 </p>
@@ -23,7 +29,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Beraldo&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Beraldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-##
-
-![Snake animation](https://github.com/Rafael-Beraldo/Rafael-Beraldo/blob/output/github-contribution-grid-snake-dark.svg)
