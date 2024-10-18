@@ -19,9 +19,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rafael-Beraldo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Snake animation](https://github.com/Rafael-Beraldo/Rafael-Beraldo/blob/output/github-contribution-grid-snake-dark.svg)
-
-##
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-</p>
