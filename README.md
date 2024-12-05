@@ -3,12 +3,6 @@
 
 ![Gráfico 3D de Contribuições](profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="center">
-  <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,nodejs,express,nest,figma,github,linux,postman,mongodb,discord,linkedin,instagram" />
-  </a>
-</p>
-
 <div align="center">
   <a href="https://github.com/Rafael-Beraldo">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Beraldo&layout=compact&langs_count=7&theme=dracula"/>
