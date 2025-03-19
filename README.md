@@ -10,6 +10,6 @@
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rafael-Beraldo&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Rafael-Beraldo&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![Snake animation](https://github.com/Rafael-Beraldo/Rafael-Beraldo/blob/output/github-contribution-grid-snake-dark.svg)
