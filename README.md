@@ -3,11 +3,4 @@
 
 ![Gráfico 3D de Contribuições](profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="center">
-  <a href="https://github.com/Rafael-Beraldo">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Beraldo&count_private=true&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Beraldo&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
 ![Snake animation](https://github.com/Rafael-Beraldo/Rafael-Beraldo/blob/output/github-contribution-grid-snake-dark.svg)
